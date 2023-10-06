@@ -17,3 +17,13 @@ One Time Pads are never to be reused, but I offer that there needs to be a commo
 Another benefit of a well-known set of numbers means that messages encrypted to them are no longer "secret" or can have hidden meaning - and thus should be able to be used over RF and skirt FCC rules on encryption (its no longer encrypted, it's encoded!)
 
 In peace time, we can practice with relaying "encoded" messages. But in war time, we can trivially change the seed for perfect secrecy and be practiced in secret message handling.
+
+I will further offer that:
+
+1) A good cipher is indistinguishable from arbitrary, random, meaningless data.
+
+2) If data is arbitrary, random, and meaningless, under the rules of the FCC, does not have any "hidden meaning".
+
+3) An OTP encrypted message and a personal OTP looks exactly the same and cannot be proved to be either.
+
+Act accordingly
