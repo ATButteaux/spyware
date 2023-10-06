@@ -10,7 +10,8 @@ Directions for doing the process with pen and paper to follow soon.
 
 codebook.py is a script that will output a character/decimal converter, a codebook, and a OTP. This data can be imported into a word processing document (formatted with 3 columns, 10pt monotype) and folded/cut down and stapled into a spy codebook. You can add your own additions to your codebook in your own codebook*.txt file.
 
-A PERSONAL NOTE
+**A PERSONAL NOTE**
+
 One Time Pads are never to be reused, but I offer that there needs to be a common, well-known set of digits to practice with other people. 
 
 Another benefit of a well-known set of numbers means that messages encrypted to them are no longer "secret" or can have hidden meaning - and thus should be able to be used over RF and skirt FCC rules on encryption (its no longer encrypted, it's encoded!)
