@@ -12,7 +12,7 @@ Directions for doing the process with pen and paper to follow soon.
 
 **A PERSONAL NOTE**
 
-One Time Pads are never to be reused, but I offer that there needs to be a common, well-known set of digits to practice with other people. 
+One Time Pads are never to be reused, but I offer that there needs to be a common, well-known set of digits to practice with other people. (and what is a better seed phrase to remember besides "crypto means cryptography"?)
 
 Another benefit of a well-known set of numbers means that messages encrypted to them are no longer "secret" or can have hidden meaning - and thus should be able to be used over RF and skirt FCC rules on encryption (its no longer encrypted, it's encoded!)
 
